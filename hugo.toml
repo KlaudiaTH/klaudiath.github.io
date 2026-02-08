@@ -1,9 +1,10 @@
 baseURL = "https://klaudiath.github.io/"
-languageCode = "en-en"
-title = "Klaudia Thellmann"
+languageCode = "en-us"
+title = "Klaudia-Doris Thellmann"
 
-theme = "ananke"
+theme = "PaperMod"
 
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
+
