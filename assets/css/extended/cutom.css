@@ -1,6 +1,49 @@
-:root { --main-width: 860px; }
+/* 2-spaltiges Layout im Home-Info Block */
+.home-info .home-grid{
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+}
 
-.home-info img {
-  border-radius: 999px;
-  max-width: 140px;
+.home-info .home-left{
+  flex: 1 1 auto;
+  min-width: 320px;
+}
+
+.home-info .home-right{
+  flex: 0 0 320px;
+}
+
+/* Avatar: Größe behalten, NICHT oval */
+.home-info .home-avatar{
+  width: 320px;      /* ggf. 280/300/340 nach Geschmack */
+  max-width: 100%;
+  height: auto;
+  border-radius: 0;  /* nicht oval */
+  display: block;
+}
+
+/* Links unter Contact */
+.home-info .home-links{
+  margin-top: .5rem;
+  margin-bottom: 1.25rem;
+}
+
+.home-info .home-links a{
+  text-decoration: none;
+}
+
+.home-info .home-links a:hover{
+  text-decoration: underline;
+}
+
+/* Mobile: untereinander (erst Text, dann Bild) */
+@media (max-width: 900px){
+  .home-info .home-grid{
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .home-info .home-right{
+    flex-basis: auto;
+  }
 }

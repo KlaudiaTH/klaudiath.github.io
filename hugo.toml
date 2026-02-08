@@ -6,6 +6,11 @@ theme = "PaperMod"
 
 enableRobotsTXT = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   env = "production"
   defaultTheme = "auto"
@@ -15,13 +20,13 @@ enableRobotsTXT = true
 
   # Optional: Label links oben (statt Titel)
   [params.label]
-    text = "Klaudia Thellmann"
+    text = "Klaudia-Doris Thellmann"
 
-  # Startseiten-Block (Home-Info Mode)
-  [params.homeInfoParams]
-    Title = "Hello 👋"
-    Content = """
-![Portrait](/img/avatar.jpg)
+[params.homeInfoParams]
+  Title = "Hello 👋"
+  Content = """
+<div class="home-grid">
+  <div class="home-left">
 
 I am … (1–2 sentences / Position / Uni / Firma).
 
@@ -32,23 +37,28 @@ I am … (1–2 sentences / Position / Uni / Firma).
 
 **Contact:** vorname.nachname@…
 
+<div class="home-links">
+  <a href="https://github.com/klaudiath" target="_blank" rel="noopener">GitHub</a>
+  <span>·</span>
+  <a href="https://www.linkedin.com/in/…" target="_blank" rel="noopener">LinkedIn</a>
+  <span>·</span>
+  <a href="https://scholar.google.com/citations?user=…" target="_blank" rel="noopener">Google Scholar</a>
+  <span>·</span>
+  <a href="https://x.com/DEINHANDLE" target="_blank" rel="noopener">X</a>
+</div>
+
 ### News
 - 04.01.2026: …
 - 08.11.2025: …
-- 25.10.2025: … ([Paper](https://…))
+- 25.10.2025: … (<a href="https://…" target="_blank" rel="noopener">Paper</a>)
+
+  </div>
+
+  <div class="home-right">
+    <img class="home-avatar" src="/img/avatar.jpg" alt="Portrait" />
+  </div>
+</div>
 """
-
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/klaudiath"
-
-  [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/…"
-
-  [[params.socialIcons]]
-    name = "googlescholar"
-    url = "https://scholar.google.com/citations?user=…"
 
 # Menü wie bei der Beispielseite
 [[menu.main]]
