@@ -4,7 +4,63 @@ title = "Klaudia-Doris Thellmann"
 
 theme = "PaperMod"
 
+enableRobotsTXT = true
+
+[params]
+  env = "production"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+
+  # Optional: Label links oben (statt Titel)
+  [params.label]
+    text = "Klaudia Thellmann"
+
+  # Startseiten-Block (Home-Info Mode)
+  [params.homeInfoParams]
+    Title = "Hello 👋"
+    Content = """
+![Portrait](/img/avatar.jpg#center)
+
+I am … (1–2 sentences / Position / Uni / Firma).
+
+### Research Interests
+- Thema A
+- Thema B
+- Thema C
+
+**Contact:** vorname.nachname@…
+
+### News
+- 04.01.2026: …
+- 08.11.2025: …
+- 25.10.2025: … ([Paper](https://…))
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/klaudiath"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/…"
+
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url = "https://scholar.google.com/citations?user=…"
+
+# Menü wie bei der Beispielseite
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 10
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 20
+
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
-

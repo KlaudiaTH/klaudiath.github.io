@@ -1,0 +1,6 @@
+:root { --main-width: 860px; }
+
+.home-info img {
+  border-radius: 999px;
+  max-width: 140px;
+}
