@@ -1,0 +1,9 @@
+baseURL = "https://klaudiath.github.io/"
+languageCode = "en-en"
+title = "Klaudia Thellmann"
+
+theme = "ananke"
+
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
