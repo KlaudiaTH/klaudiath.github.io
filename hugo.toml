@@ -21,7 +21,7 @@ enableRobotsTXT = true
   [params.homeInfoParams]
     Title = "Hello 👋"
     Content = """
-![Portrait](/img/avatar.jpg#center)
+![Portrait](/img/avatar.jpg)
 
 I am … (1–2 sentences / Position / Uni / Firma).
 
