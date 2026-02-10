@@ -26,8 +26,8 @@ enableRobotsTXT = true
   Title = "Hello 👋"
   Content = """
 <div class="home-top">
-  <div class="home-grid">
-    <div class="home-left">
+<div class="home-grid">
+<div class="home-left">
 
 <p class="home-bio">
 I am a Machine Learning Engineer / NLP researcher at TU Dresden, working on multilingual LLM evaluation and scalable benchmarking pipelines.
@@ -58,12 +58,12 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
   <a href="https://x.com/DEINHANDLE" target="_blank" rel="noopener">X</a>
 </div>
 
-    </div>
+</div>
 
-    <div class="home-right">
-      <img class="home-avatar" src="/img/avatar.jpg" alt="Portrait" />
-    </div>
-  </div>
+<div class="home-right">
+<img class="home-avatar" src="/img/avatar.jpg" alt="Portrait" />
+</div>
+</div>
 </div>
 
 <div class="home-news">

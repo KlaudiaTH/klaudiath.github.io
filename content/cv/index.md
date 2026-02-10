@@ -4,7 +4,7 @@ url: "/cv/"
 ---
 
 ## Summary
-Machine Learning Engineer / NLP researcher at **TU Dresden (CIDS / ZIH)** focusing on **multilingual LLM evaluation**, **benchmarking**, and **HPC-scale evaluation pipelines**.
+Machine Learning Engineer / NLP researcher at TU Dresden focusing on multilingual LLM evaluation, benchmarking, and HPC-scale evaluation pipelines.
 
 ## Research Focus
 - Translation-aware and culturally robust multilingual benchmarking
@@ -19,7 +19,3 @@ Machine Learning Engineer / NLP researcher at **TU Dresden (CIDS / ZIH)** focusi
 - **Fraunhofer IAIS** — Software Engineer / Big Data Architect, *07/2013–12/2016*
 - **University of Bonn (EIS)** — Research Associate (Semantic Web / Linked Data), *01/2014–11/2015*
 
-## Selected Work Highlights
-- Designed and scaled evaluation pipelines for large comparative studies across **40+ LLMs**, including Teuken model iterations.
-- Ran GPU-intensive evaluation on HPC clusters; improved reliability/monitoring and model integration for diverse formats.
-- Contributed to research on tokenization, multilingual instruction-tuning, and translation artifacts in benchmark evaluation.
