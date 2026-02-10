@@ -1,3 +1,5 @@
+:root { --main-width: 980px; }
+
 /* --- Home Layout --- */
 .home-info .home-grid{
   display: flex;
@@ -44,9 +46,16 @@
 }
 
 /* Contact + Links */
-.home-info .home-contact{
-  margin: .25rem 0 .5rem;
+
+.home-info .home-contact{ 
+  white-space: nowrap; 
 }
+
+@media (max-width: 900px){
+  .home-info .home-contact{ white-space: normal; } 
+}
+
+
 .home-info .home-links{
   margin-bottom: 0.75rem;
 }
