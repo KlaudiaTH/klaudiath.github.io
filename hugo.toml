@@ -25,46 +25,60 @@ enableRobotsTXT = true
 [params.homeInfoParams]
   Title = "Hello 👋"
   Content = """
-<div class="home-grid">
-  <div class="home-left">
+<div class="home-top">
+  <div class="home-grid">
+    <div class="home-left">
 
-I am a Machine Learning Engineer / NLP researcher at **TU Dresden (CIDS / ZIH)**, working on **multilingual LLM evaluation** and **scalable benchmarking pipelines**. My research focuses on the reliability of translated benchmarks, translation-aware evaluation, and methods for culturally robust multilingual benchmarking.
+<p class="home-bio">
+I am a Machine Learning Engineer / NLP researcher at TU Dresden, working on multilingual LLM evaluation and scalable benchmarking pipelines.
+My background is in computer science (university degree) with a background in data management (Big Data architectures & analytics), now focusing on NLP and large language models (LLMs).
+My research focuses on the reliable evaluation of multilingual LLMs, especially the validity of translated benchmarks, translation-aware evaluation, and culturally robust multilingual benchmarking.
+</p>
 
-### Research Interests
-- Multilingual LLM evaluation & benchmark design
-- Translation artifacts & translation-aware metrics
-- Automated benchmark QA (e.g., MT quality estimation, LLM-as-a-judge)
-- Human-aligned evaluation / preference validation
-- Efficient large-scale evaluation on HPC clusters
+<h3 class="home-section">Research Interests</h3>
+<ul class="home-bullets">
+  <li>Multilingual LLM evaluation &amp; benchmark design</li>
+  <li>Translation artifacts &amp; translation-aware metrics</li>
+  <li>Automated benchmark QA (e.g., MT quality estimation, LLM-as-a-judge)</li>
+  <li>Human-aligned evaluation / preference validation</li>
+  <li>Efficient large-scale evaluation on HPC clusters</li>
+</ul>
 
-**Contact:** klaudia-doris.thellmann@tu-dresden.de
+<p class="home-contact">
+<strong>Contact:</strong> klaudia-doris.thellmann <span class="obf">[at]</span> tu-dresden <span class="obf">[dot]</span> de
+</p>
 
 <div class="home-links">
   <a href="https://github.com/klaudiath" target="_blank" rel="noopener">GitHub</a>
   <span>·</span>
-  <a href="https://www.linkedin.com/in/klaudia-doris-thellmann" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/…" target="_blank" rel="noopener">LinkedIn</a>
   <span>·</span>
-  <a href="https://scholar.google.com/citations?user=ljgVUsAAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=…" target="_blank" rel="noopener">Google Scholar</a>
   <span>·</span>
   <a href="https://x.com/DEINHANDLE" target="_blank" rel="noopener">X</a>
 </div>
 
-### News
-- **2026:** *Under review* — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.” *(arXiv forthcoming)*
-- **2026:** *Under review* — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.” *(arXiv forthcoming)*
-- **2025:** *EACL 2025* — “Teuken-7B-Base & Teuken-7B-Instruct: Towards European LLMs.”
-- **2024:** *EMNLP 2024* — “Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?”
-- **2024:** *NAACL 2024 Findings* — “Tokenizer Choice For LLM Training: Negligible or Crucial?”
+    </div>
 
+    <div class="home-right">
+      <img class="home-avatar" src="/img/avatar.jpg" alt="Portrait" />
+    </div>
   </div>
+</div>
 
-  <div class="home-right">
-    <img class="home-avatar" src="/img/avatar.jpg" alt="Portrait" />
-  </div>
+<div class="home-news">
+  <h3>News</h3>
+  <ul class="news-list">
+    <li><span class="news-year">2026</span> <em>Under review</em> — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.” <span class="news-note">(arXiv forthcoming)</span></li>
+    <li><span class="news-year">2026</span> <em>Under review</em> — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.” <span class="news-note">(arXiv forthcoming)</span></li>
+    <li><span class="news-year">2025</span> <em>EACL 2025</em> — “Teuken-7B-Base &amp; Teuken-7B-Instruct: Towards European LLMs.”</li>
+    <li><span class="news-year">2024</span> <em>EMNLP 2024</em> — “Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?”</li>
+    <li><span class="news-year">2024</span> <em>Findings of NAACL 2024</em> — “Tokenizer Choice For LLM Training: Negligible or Crucial?”</li>
+  </ul>
 </div>
 """
 
-# Menü wie bei der Beispielseite
+
 [[menu.main]]
   name = "Publications"
   url = "/publications/"

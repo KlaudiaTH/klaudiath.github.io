@@ -1,4 +1,4 @@
-/* 2-spaltiges Layout im Home-Info Block */
+/* --- Home Layout --- */
 .home-info .home-grid{
   display: flex;
   gap: 3rem;
@@ -11,39 +11,83 @@
 }
 
 .home-info .home-right{
-  flex: 0 0 320px;
+  flex: 0 0 280px; /* macht das Bild insgesamt kleiner */
 }
 
-/* Avatar: Größe behalten, NICHT oval */
 .home-info .home-avatar{
-  width: 320px;      /* ggf. 280/300/340 nach Geschmack */
+  width: 280px;     /* Bildgröße */
   max-width: 100%;
   height: auto;
-  border-radius: 0;  /* nicht oval */
+  border-radius: 0; /* nicht oval */
   display: block;
 }
 
-/* Links unter Contact */
+/* Bio -> mehr Abstand nach unten */
+.home-info .home-bio{
+  margin-bottom: 1.2rem;
+}
+
+/* Überschrift Research Interests -> etwas Luft nach oben */
+.home-info .home-section{
+  margin-top: 1.0rem;
+  margin-bottom: .5rem;
+}
+
+/* Bulletpoints */
+.home-info .home-bullets{
+  margin-top: 0.25rem;
+  margin-bottom: 1.0rem;
+  padding-left: 1.2rem;
+}
+.home-info .home-bullets li{
+  margin: .15rem 0;
+}
+
+/* Contact + Links */
+.home-info .home-contact{
+  margin: .25rem 0 .5rem;
+}
 .home-info .home-links{
+  margin-bottom: 0.75rem;
+}
+
+/* Obfuscation-Token leicht unauffällig */
+.home-info .obf{
+  font-family: inherit;
+  opacity: .9;
+}
+
+/* News als separater Full-Width Block */
+.home-info .home-news{
+  margin-top: 1.75rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+}
+
+.home-info .news-list{
   margin-top: .5rem;
-  margin-bottom: 1.25rem;
+  padding-left: 1.2rem;
+}
+.home-info .news-list li{
+  margin: .35rem 0;
+}
+.home-info .news-year{
+  font-weight: 700;
+}
+.home-info .news-note{
+  opacity: .8;
 }
 
-.home-info .home-links a{
-  text-decoration: none;
-}
-
-.home-info .home-links a:hover{
-  text-decoration: underline;
-}
-
-/* Mobile: untereinander (erst Text, dann Bild) */
+/* Mobile: untereinander */
 @media (max-width: 900px){
   .home-info .home-grid{
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 1.25rem;
   }
   .home-info .home-right{
     flex-basis: auto;
+  }
+  .home-info .home-avatar{
+    width: 220px;
   }
 }

@@ -31,17 +31,3 @@ url: "/publications/"
 - **Tokenizer Choice For LLM Training: Negligible or Crucial?**  
   Mehdi Ali, Michael Fromm, Klaudia-Doris Thellmann, *et al.* — **Findings of NAACL 2024**.  
   DOI: https://doi.org/10.18653/v1/2024.findings-naacl.247  
-  arXiv: https://arxiv.org/abs/2310.08754
-
-## 2022
-- **Transformer with Tree-order Encoding for Neural Program Generation.**  
-  Klaudia-Doris Thellmann, Bernhard Stadler, Ricardo Usbeck, Jens Lehmann — **arXiv (2022)**.  
-  https://arxiv.org/abs/2206.13354
-
-## 2015
-- **LinkDaViz – Automatic Binding of Linked Data to Visualizations.**  
-  Klaudia-Doris Thellmann, Mikhail Galkin, Francesco Orlandi, Sören Auer — **ISWC 2015**.
-
-## 2014
-- **LinDA – Visualising and Exploring Linked Data.**  
-  Klaudia-Doris Thellmann, Mikhail Galkin, Francesco Orlandi, Sören Auer — **SEMANTiCS 2014**.
