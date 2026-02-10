@@ -28,29 +28,33 @@ enableRobotsTXT = true
 <div class="home-grid">
   <div class="home-left">
 
-I am … (1–2 sentences / Position / Uni / Firma).
+I am a Machine Learning Engineer / NLP researcher at **TU Dresden (CIDS / ZIH)**, working on **multilingual LLM evaluation** and **scalable benchmarking pipelines**. My research focuses on the reliability of translated benchmarks, translation-aware evaluation, and methods for culturally robust multilingual benchmarking.
 
 ### Research Interests
-- Thema A
-- Thema B
-- Thema C
+- Multilingual LLM evaluation & benchmark design
+- Translation artifacts & translation-aware metrics
+- Automated benchmark QA (e.g., MT quality estimation, LLM-as-a-judge)
+- Human-aligned evaluation / preference validation
+- Efficient large-scale evaluation on HPC clusters
 
-**Contact:** vorname.nachname@…
+**Contact:** klaudia-doris.thellmann@tu-dresden.de
 
 <div class="home-links">
   <a href="https://github.com/klaudiath" target="_blank" rel="noopener">GitHub</a>
   <span>·</span>
-  <a href="https://www.linkedin.com/in/…" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/klaudia-doris-thellmann" target="_blank" rel="noopener">LinkedIn</a>
   <span>·</span>
-  <a href="https://scholar.google.com/citations?user=…" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=ljgVUsAAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
   <span>·</span>
   <a href="https://x.com/DEINHANDLE" target="_blank" rel="noopener">X</a>
 </div>
 
 ### News
-- 04.01.2026: …
-- 08.11.2025: …
-- 25.10.2025: … (<a href="https://…" target="_blank" rel="noopener">Paper</a>)
+- **2026:** *Under review* — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.” *(arXiv forthcoming)*
+- **2026:** *Under review* — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.” *(arXiv forthcoming)*
+- **2025:** *EACL 2025* — “Teuken-7B-Base & Teuken-7B-Instruct: Towards European LLMs.”
+- **2024:** *EMNLP 2024* — “Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?”
+- **2024:** *NAACL 2024 Findings* — “Tokenizer Choice For LLM Training: Negligible or Crucial?”
 
   </div>
 
