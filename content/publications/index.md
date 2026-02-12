@@ -4,14 +4,16 @@ url: "/publications/"
 ---
 
 ## Under Review / In Preparation
-- **Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.**  
-  *Under review.* (arXiv forthcoming)
-
 - **Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.**  
   *Under review.* (arXiv forthcoming)
 
 - **Gold vs. Trans: Are We Measuring Language, Knowledge, or Locality in Translated Benchmarks?**  
-  In preparation.
+  *Under review.* (arXiv forthcoming)
+
+## 2026
+- **Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.**  
+  Klaudia-Doris Thellmann, Bernhard Stadler, *et al.* — **LREC 2026**. 
+  (arXiv forthcoming)
 
 ## 2025
 - **Teuken-7B-Base & Teuken-7B-Instruct: Towards European LLMs.**  

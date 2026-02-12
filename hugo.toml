@@ -55,7 +55,7 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
   <span>·</span>
   <a href="https://scholar.google.com/citations?user=…" target="_blank" rel="noopener">Google Scholar</a>
   <span>·</span>
-  <a href="https://x.com/DEINHANDLE" target="_blank" rel="noopener">X</a>
+  <a href="https://x.com/ThKlaudia" target="_blank" rel="noopener">X</a>
 </div>
 
 </div>
@@ -70,8 +70,8 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
 <div class="home-news">
   <h3>News</h3>
   <ul class="news-list">
-    <li><span class="news-year">2026</span> <em>Under review</em> — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.” <span class="news-note">(arXiv forthcoming)</span></li>
     <li><span class="news-year">2026</span> <em>Under review</em> — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.” <span class="news-note">(arXiv forthcoming)</span></li>
+    <li><span class="news-year">2026</span> <em>LREC 2026</em> — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.” <span class="news-note">(arXiv forthcoming)</span></li>
     <li><span class="news-year">2025</span> <em>EACL 2025</em> — “Teuken-7B-Base &amp; Teuken-7B-Instruct: Towards European LLMs.”</li>
     <li><span class="news-year">2024</span> <em>EMNLP 2024</em> — “Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?”</li>
     <li><span class="news-year">2024</span> <em>Findings of NAACL 2024</em> — “Tokenizer Choice For LLM Training: Negligible or Crucial?”</li>

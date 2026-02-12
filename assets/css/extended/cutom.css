@@ -17,10 +17,10 @@
 }
 
 .home-info .home-avatar{
-  width: 280px;     /* Bildgröße */
+  width: 260px;     /* Bildgröße */
   max-width: 100%;
   height: auto;
-  border-radius: 0; /* nicht oval */
+  border-radius: 0;
   display: block;
 }
 
@@ -31,8 +31,8 @@
 
 /* Überschrift Research Interests -> etwas Luft nach oben */
 .home-info .home-section{
-  margin-top: 1.0rem;
-  margin-bottom: .5rem;
+  margin-top: 1.5rem;
+  margin-bottom: .3rem;
 }
 
 /* Bulletpoints */
