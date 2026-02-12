@@ -35,6 +35,15 @@ My background is in computer science (university degree) with a background in da
 My research focuses on the reliable evaluation of multilingual LLMs, especially the validity of translated benchmarks, translation-aware evaluation, and culturally robust multilingual benchmarking.
 </p>
 
+<h3 class="home-section">Experience</h3>
+<ul class="home-bullets">
+  <li>TU Dresden (ZIH/VDR) — Machine Learning Engineer (NLP/LLMs), since 01/2023</li>
+  <li>TU Dresden (ScaDS.AI) — Research Associate (NLP), 02/2020–02/2021</li>
+  <li>Fraunhofer IAIS — Data Scientist / Lecturer (Big Data architectures), 01/2017–06/2019</li>
+  <li>Fraunhofer IAIS — Software Engineer / Big Data Architect, 07/2013–12/2016</li>
+  <li>University of Bonn (EIS) — Research Associate (Semantic Web), 01/2014–11/2015</li>
+</ul>
+
 <h3 class="home-section">Research Interests</h3>
 <ul class="home-bullets">
   <li>Multilingual LLM evaluation &amp; benchmark design</li>
@@ -51,9 +60,9 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
 <div class="home-links">
   <a href="https://github.com/klaudiath" target="_blank" rel="noopener">GitHub</a>
   <span>·</span>
-  <a href="https://www.linkedin.com/in/…" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/klaudia-doris-thellmann-b9853a111/" target="_blank" rel="noopener">LinkedIn</a>
   <span>·</span>
-  <a href="https://scholar.google.com/citations?user=…" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=de&hl=de&user=ljgVUsAAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
   <span>·</span>
   <a href="https://x.com/ThKlaudia" target="_blank" rel="noopener">X</a>
 </div>
@@ -70,8 +79,8 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
 <div class="home-news">
   <h3>News</h3>
   <ul class="news-list">
-    <li><span class="news-year">2026</span> <em>Under review</em> — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.” <span class="news-note">(arXiv forthcoming)</span></li>
-    <li><span class="news-year">2026</span> <em>LREC 2026</em> — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.” <span class="news-note">(arXiv forthcoming)</span></li>
+    <li><span class="news-year">2026</span> <em>Under review</em> — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.”</li>
+    <li><span class="news-year">2026</span> <em>LREC 2026</em> — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.”</li>
     <li><span class="news-year">2025</span> <em>EACL 2025</em> — “Teuken-7B-Base &amp; Teuken-7B-Instruct: Towards European LLMs.”</li>
     <li><span class="news-year">2024</span> <em>EMNLP 2024</em> — “Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?”</li>
     <li><span class="news-year">2024</span> <em>Findings of NAACL 2024</em> — “Tokenizer Choice For LLM Training: Negligible or Crucial?”</li>
@@ -86,8 +95,8 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
   weight = 10
 
 [[menu.main]]
-  name = "CV"
-  url = "/cv/"
+  name = "Projects"
+  url = "/projects/"
   weight = 20
 
 [caches]
