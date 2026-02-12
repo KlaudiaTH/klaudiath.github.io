@@ -7,9 +7,6 @@ url: "/publications/"
 - **Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.**  
   *Under review.* (arXiv forthcoming)
 
-- **Gold vs. Trans: Are We Measuring Language, Knowledge, or Locality in Translated Benchmarks?**  
-  *Under review.* (arXiv forthcoming)
-
 ## 2026
 - **Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.**  
   Klaudia-Doris Thellmann, Bernhard Stadler, *et al.* — **LREC 2026**. 
