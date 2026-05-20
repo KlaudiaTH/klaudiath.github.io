@@ -79,7 +79,7 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
 <div class="home-news">
   <h3>News</h3>
   <ul class="news-list">
-    <li><span class="news-year">2026</span> <em>Under review</em> — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.”</li>
+    <li><span class="news-year">2026</span> <em>ACL 2026</em> — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.”</li>
     <li><span class="news-year">2026</span> <em>LREC 2026</em> — “Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.”</li>
     <li><span class="news-year">2025</span> <em>EACL 2025</em> — “Teuken-7B-Base &amp; Teuken-7B-Instruct: Towards European LLMs.”</li>
     <li><span class="news-year">2024</span> <em>EMNLP 2024</em> — “Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?”</li>
@@ -98,6 +98,11 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
   name = "Projects"
   url = "/projects/"
   weight = 20
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 30
 
 [caches]
   [caches.images]

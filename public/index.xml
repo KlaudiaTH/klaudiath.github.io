@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klaudia-Doris Thellmann</title>
+    <link>//:1313/</link>
+    <description>Recent content on Klaudia-Doris Thellmann</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>//:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//:1313/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>//:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//:1313/publications/</guid>
+      <description>&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.&lt;/strong&gt;&lt;br&gt;&#xA;Klaudia-Doris Thellmann, Bernhard Stadler, &lt;em&gt;et al.&lt;/em&gt; — &lt;strong&gt;ACL 2026&lt;/strong&gt;.&#xA;(arXiv forthcoming)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2026-1&#34;&gt;2026&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.&lt;/strong&gt;&lt;br&gt;&#xA;Klaudia-Doris Thellmann, Bernhard Stadler, &lt;em&gt;et al.&lt;/em&gt; — &lt;strong&gt;LREC 2026&lt;/strong&gt;.&#xA;DOI: &lt;a href=&#34;https://doi.org/10.63317/46mkktmq3ytw&#34;&gt;https://doi.org/10.63317/46mkktmq3ytw&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Teuken-7B-Base &amp;amp; Teuken-7B-Instruct: Towards European LLMs.&lt;/strong&gt;&lt;br&gt;&#xA;Mehdi Ali, Michael Fromm, Klaudia-Doris Thellmann, &lt;em&gt;et al.&lt;/em&gt; — &lt;strong&gt;EACL 2025&lt;/strong&gt;.&lt;br&gt;&#xA;arXiv: &lt;a href=&#34;https://arxiv.org/abs/2410.03730&#34;&gt;https://arxiv.org/abs/2410.03730&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Towards Multilingual LLM Evaluation for European Languages.&lt;/strong&gt;&lt;br&gt;&#xA;Klaudia-Doris Thellmann, Bernhard Stadler, Michael Fromm, &lt;em&gt;et al.&lt;/em&gt; — &lt;strong&gt;arXiv (2025)&lt;/strong&gt;.&lt;br&gt;&#xA;&lt;a href=&#34;https://arxiv.org/abs/2410.08928&#34;&gt;https://arxiv.org/abs/2410.08928&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
