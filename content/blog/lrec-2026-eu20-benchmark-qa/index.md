@@ -1,7 +1,7 @@
 ---
 title: "LREC 2026: Diagnosing translated benchmarks in EU20"
 date: 2026-05-15
-draft: true
+draft: false
 summary: "A short conference recap and behind-the-scenes notes on our automated QA study of translated multilingual benchmarks."
 tags: ["LREC", "multilingual evaluation", "benchmark QA", "machine translation"]
 categories: ["conference", "paper"]
@@ -27,13 +27,6 @@ Translated benchmarks are widely used to evaluate multilingual LLMs. However, tr
 
 
 ## Photos
-
-```text
-content/blog/lrec-2026-eu20-benchmark-qa/images/lrec_venue_1.jpg
-content/blog/lrec-2026-eu20-benchmark-qa/images/lrec_poster.png
-content/blog/lrec-2026-eu20-benchmark-qa/images/lrec_venue_2.png
-content/blog/lrec-2026-eu20-benchmark-qa/images/lrec_venue_3.jpeg
-```
 
 ```markdown
 ![Presenting the paper at LREC](images/lrec_poster.png)
