@@ -28,9 +28,7 @@ Translated benchmarks are widely used to evaluate multilingual LLMs. However, tr
 
 ## Photos
 
-```markdown
 ![Presenting the paper at LREC](images/lrec_poster.png)
-```
 
 ## Links
 
