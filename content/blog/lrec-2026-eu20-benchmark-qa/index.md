@@ -30,6 +30,8 @@ Translated benchmarks are widely used to evaluate multilingual LLMs. However, tr
 
 ![Presenting the paper at LREC](images/lrec_poster.png)
 
+<img src="images/lrec_poster.png" alt="Presenting the paper at LREC" class="blog-image-medium">
+
 ## Links
 
 - Paper: TODO
