@@ -3,14 +3,15 @@ title: "Publications"
 url: "/publications/"
 ---
 
-## Under Review / In Preparation
+## 2026
 - **Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation.**  
-  *Under review.* (arXiv forthcoming)
+  Klaudia-Doris Thellmann, Bernhard Stadler, *et al.* — **ACL 2026**. 
+  (arXiv forthcoming)
 
 ## 2026
 - **Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite.**  
   Klaudia-Doris Thellmann, Bernhard Stadler, *et al.* — **LREC 2026**. 
-  (arXiv forthcoming)
+  DOI: https://doi.org/10.63317/46mkktmq3ytw
 
 ## 2025
 - **Teuken-7B-Base & Teuken-7B-Instruct: Towards European LLMs.**  
