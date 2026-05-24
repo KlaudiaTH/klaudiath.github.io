@@ -2,6 +2,7 @@
 title: "LREC 2026: Diagnosing translated benchmarks"
 date: 2026-05-15
 draft: false
+hiddenInHomeList: true
 summary: "A conference recap and reading guide on translated benchmarks, multilingual LLM evaluation, and automated QA."
 tags: ["LREC", "multilingual evaluation", "benchmark QA", "machine translation"]
 categories: ["conference", "paper"]

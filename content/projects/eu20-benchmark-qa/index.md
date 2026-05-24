@@ -2,7 +2,7 @@
 title: "Diagnosing translated benchmarks"
 date: 2026-05-15
 draft: false
-summary: "Automated QA for translated benchmark items in the EU20 benchmark suite."
+summary: "Automated QA for translated benchmark items."
 tags: ["benchmark QA", "multilingual evaluation", "LREC", "translation"]
 ---
 

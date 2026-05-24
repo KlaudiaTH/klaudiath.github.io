@@ -2,6 +2,7 @@
 title: "ACL 2026 preview: Translation errors and multilingual LLM evaluation"
 date: 2026-05-15
 draft: false
+hiddenInHomeList: true
 summary: "A draft space for notes around the upcoming ACL presentation of the TQE paper."
 tags: ["ACL", "translation quality estimation", "multilingual evaluation", "LLMs"]
 categories: ["conference", "paper"]

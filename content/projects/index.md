@@ -21,17 +21,10 @@ My current research projects are closely connected to my recent publications. Ea
     <span class="project-links">Paper · Code · Data · Demo</span>
   </a>
 
-  <a class="project-card" href="/projects/multilingual-llm-evaluation/">
-    <span class="project-kicker">2025 · Evaluation</span>
-    <h3>Multilingual LLM evaluation for European languages</h3>
-    <p>Benchmarking methods and infrastructure for comparing LLMs across European languages.</p>
-    <span class="project-links">Paper · Code · Benchmark</span>
-  </a>
-
-  <a class="project-card" href="/projects/teuken-european-llms/">
-    <span class="project-kicker">EACL 2025 · European LLMs</span>
-    <h3>Teuken-7B</h3>
-    <p>Work on European LLMs and multilingual evaluation in the Teuken model family.</p>
-    <span class="project-links">Paper · Model · Code</span>
+  <a class="project-card" href="/projects/opengpt-x/">
+    <span class="project-kicker">OpenGPT-X · 2022–2025 · NAACL · EMNLP · EACL</span>
+    <h3>OpenGPT-X — Teuken-7B &amp; multilingual evaluation for European languages</h3>
+    <p>Open European LLMs and the tokenizer, instruction-tuning, and evaluation work behind them.</p>
+    <span class="project-links">Papers · Models · Leaderboard · Code</span>
   </a>
 </div>
