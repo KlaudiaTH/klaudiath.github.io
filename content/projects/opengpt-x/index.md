@@ -1,7 +1,8 @@
 ---
-title: "OpenGPT-X — Teuken-7B and multilingual evaluation for European languages"
+title: "Teuken-7B and multilingual evaluation"
 date: 2026-01-01
 draft: false
+hiddenInHomeList: true
 summary: "Open, multilingual LLMs for Europe — and the tokenizer, instruction-tuning, and evaluation work behind them. Four publications from the OpenGPT-X project (2022–2025)."
 tags: ["OpenGPT-X", "Teuken-7B", "European LLMs", "multilingual evaluation", "EU20", "EACL", "EMNLP", "NAACL"]
 aliases:
