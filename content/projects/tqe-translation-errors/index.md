@@ -2,6 +2,7 @@
 title: "Translation errors in multilingual LLM evaluation"
 date: 2026-05-20
 draft: false
+hiddenInHomeList: true
 summary: "A project around translation quality estimation and its impact on multilingual benchmark reliability."
 tags: ["translation quality estimation", "ACL", "multilingual evaluation", "LLMs"]
 ---
