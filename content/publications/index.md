@@ -9,19 +9,23 @@ url: "/publications/"
 
 <div class="pub-item">
   <div class="pub-title">Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation</div>
-  <div class="pub-meta"><span class="pub-authors"><strong>Klaudia-Doris Thellmann</strong>, Bernhard Stadler, et al.</span> — <span class="pub-venue">ACL 2026</span></div>
+  <div class="pub-meta"><span class="pub-authors"><strong>Klaudia-Doris Thellmann</strong>, Bernhard Stadler, Michael Färber, Jens Lehmann</span> — <span class="pub-venue">ACL 2026</span></div>
   <div class="pub-links">
-    <span class="pub-link pub-link-muted">arXiv forthcoming</span>
-    <a class="pub-link" href="/projects/tqe-translation-errors/">Project</a>
+    <a class="pub-link" href="https://arxiv.org/abs/2605.24904">arXiv</a>
+    <a class="pub-link" href="https://github.com/btqe/trans_qa">Code/Data</a>
+    <a class="pub-link" href="/projects/translation-quality-assurance/">Project</a>
+    <a class="pub-link" href="/blog/acl-2026-tqe-paper/">Blog</a>
   </div>
 </div>
 
 <div class="pub-item">
   <div class="pub-title">Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite</div>
-  <div class="pub-meta"><span class="pub-authors"><strong>Klaudia-Doris Thellmann</strong>, Bernhard Stadler, et al.</span> — <span class="pub-venue">LREC 2026</span></div>
+  <div class="pub-meta"><span class="pub-authors"><strong>Klaudia-Doris Thellmann</strong>, Bernhard Stadler, Michael Färber</span> — <span class="pub-venue">LREC 2026</span></div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.63317/46mkktmq3ytw">DOI</a>
-    <a class="pub-link" href="/projects/eu20-benchmark-qa/">Project</a>
+    <a class="pub-link" href="https://arxiv.org/abs/2604.01957">arXiv</a>
+    <a class="pub-link" href="https://github.com/eu20-cleaned/translation-quality-analysis">Code/Data</a>
+    <a class="pub-link" href="/projects/translation-quality-assurance/">Project</a>
+    <a class="pub-link" href="/blog/lrec-2026-eu20-benchmark-qa/">Blog</a>
   </div>
 </div>
 
