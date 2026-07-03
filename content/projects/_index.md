@@ -1,16 +1,16 @@
 ---
 title: "Projects"
 url: "/projects/"
-description: "Research projects around multilingual LLM evaluation, translated benchmarks, and European language technologies."
+description: "Research projects around multilingual LLM evaluation, translated benchmarks, and European language technologies. My current research projects are closely connected to my recent publications. Each project page collects the papers, code, datasets, and follow-up material where available."
 ---
 
-My current research projects are closely connected to my recent publications. Each project page collects the papers, code, datasets, and follow-up material where available.
+
 
 <div class="project-grid">
   <a class="project-card" href="/projects/translation-quality-assurance/">
     <span class="project-kicker">LREC 2026 · ACL 2026 · EU20 · Benchmark QA</span>
     <h3>Translation Quality Assurance for Multilingual LLM Evaluation</h3>
-    <p>Diagnosing translated benchmarks, releasing EU20-Cleaned, and quantifying how translation errors affect multilingual LLM evaluation.</p>
+    <p>Diagnosing translated benchmarks, and quantifying how translation errors affect multilingual LLM evaluation.</p>
     <span class="project-links">Papers · Code · Data · Blog posts</span>
   </a>
 

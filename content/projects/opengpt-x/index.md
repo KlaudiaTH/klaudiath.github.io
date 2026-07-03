@@ -24,15 +24,11 @@ The four papers below tell one continuous story — from how to tokenize multili
 
 Across 24 mono- and multilingual 2.6B-parameter models, we asked a basic question that turns out to matter a lot: how much does tokenizer design cost you in multilingual training? An English-centric tokenizer can inflate training cost by **up to 68%** on multilingual data. Tokenizers trained on a balanced language mix produce shorter sequences (lower fertility), keep multilingual training within budget, and yield better non-English downstream performance.
 
-*My contribution:* built and scaled the evaluation pipelines comparing Byte-Pair Encoding vs. Unigram tokenizers, adapted EleutherAI's *LM Evaluation Harness* for tokenizer-aware testing, and ran the fertility and downstream-task analyses (reasoning, world knowledge, truthfulness).
-
 ### 2. Teaching the model to follow multilingual instructions
 
 **Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?** — *EMNLP 2024*
 
 We built a 1,030-instruction multilingual dataset across five languages and asked whether multilingual models really need multilingual instructions. They do: multilingual instruction-tuning improves low-resource accuracy by **up to 10%**, and human-curated data substantially outperforms synthetic. Diversity and dataset size matter most.
-
-*My contribution:* extended the *FastChat* instruction-tuning framework, ran and managed the fine-tuning experiments on HPC, and shaped dataset selection and preparation.
 
 ### 3. Teuken-7B — the open European LLM
 
@@ -40,15 +36,11 @@ We built a 1,030-instruction multilingual dataset across five languages and aske
 
 The flagship deliverable: a 7B-parameter LLM trained from scratch on all **24 EU official languages**, with a strong focus on non-English European language data, plus an instruction-tuned variant. The tokenizer and instruction-tuning design follow directly from the two studies above. The full pipeline — data curation, training, instruction-tuning, evaluation — is openly documented, and the models are released for research and commercial use on Hugging Face.
 
-*My contribution:* designed and ran the evaluation suite used throughout development — comparing every Teuken development snapshot against state-of-the-art baselines so that decisions on model and data choices were always grounded in empirical comparisons.
-
 ### 4. A trustworthy evaluation infrastructure for European LLMs
 
 **Towards Multilingual LLM Evaluation for European Languages** — *arXiv 2025*
 
 This work turned the in-house evaluation infrastructure into a public resource. We translated five widely used benchmarks into 20 EU languages — the **EU20** benchmark suite — and evaluated **40+ state-of-the-art LLMs** on reasoning, knowledge, and truthfulness. The resulting **European LLM Leaderboard** on Hugging Face exposes a >20% accuracy gap between high- and mid-resource languages. We also validated the automated benchmarks against human preferences from the Chatbot Arena and found strong agreement — supporting EU20 as a reliable multilingual evaluation instrument.
-
-*My contribution:* led the planning and execution of the multilingual evaluation, the release of the European LLM Leaderboard, and the open publication of the EU20 benchmarks.
 
 ## Papers
 

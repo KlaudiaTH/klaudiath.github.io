@@ -79,11 +79,11 @@ My research focuses on the reliable evaluation of multilingual LLMs, especially 
 <div class="home-news">
   <h3>News</h3>
   <ul class="news-list">
-    <li><span class="news-year">2026</span> <em>ACL 2026</em> — “Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation” is available on arXiv with code and data artefacts.</li>
-    <li><span class="news-year">2026</span> <em>LREC 2026</em> — “Diagnosing Translated Benchmarks” and the EU20-Cleaned artefact release are available.</li>
-    <li><span class="news-year">2025</span> <em>EACL 2025</em> — “Teuken-7B-Base &amp; Teuken-7B-Instruct: Towards European LLMs.”</li>
-    <li><span class="news-year">2024</span> <em>EMNLP 2024</em> — “Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?”</li>
-    <li><span class="news-year">2024</span> <em>Findings of NAACL 2024</em> — “Tokenizer Choice For LLM Training: Negligible or Crucial?”</li>
+    <li><span class="news-year">2026</span> <em>ACL 2026</em> — Quantifying the impact of translation errors on multilingual LLM evaluation</li>
+    <li><span class="news-year">2026</span> <em>LREC 2026</em> — Diagnosing translated benchmarks using automated TQE approaches </li>
+    <li><span class="news-year">2025</span> <em>EACL 2025</em> — Teuken-7B-Base &amp; Teuken-7B-Instruct: European LLMs</li>
+    <li><span class="news-year">2024</span> <em>EMNLP 2024</em> — Investigating multilingual instruction-tuning</li>
+    <li><span class="news-year">2024</span> <em>NAACL 2024</em> — Tokenizer choice for LLM training</li>
   </ul>
 </div>
 """

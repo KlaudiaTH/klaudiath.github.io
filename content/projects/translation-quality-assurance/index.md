@@ -3,7 +3,7 @@ title: "Translation Quality Assurance for Multilingual LLM Evaluation"
 date: 2026-07-03
 draft: false
 hiddenInHomeList: true
-summary: "Diagnosing translated benchmarks, releasing EU20-Cleaned, and quantifying how translation errors affect multilingual LLM evaluation."
+summary: "Diagnosing translated benchmarks, and quantifying how translation errors affect multilingual LLM evaluation."
 tags: ["multilingual evaluation", "translation quality", "benchmark QA", "EU20", "LREC", "ACL"]
 aliases:
   - /projects/eu20-benchmark-qa/
@@ -14,7 +14,7 @@ aliases:
 
 This project brings together two closely connected papers on translation quality assurance for multilingual LLM evaluation. The first paper diagnoses quality risks in translated benchmarks and releases cleaned EU20 benchmark resources. The second paper asks how much annotated translation errors actually affect multilingual LLM benchmark accuracy.
 
-Together, the two studies follow one research line: translated benchmarks are useful for scalable multilingual evaluation, but they should be treated as research artefacts that need systematic validation, documentation, and quality-aware analysis.
+Together, the two studies follow one research line: translated benchmarks are useful for scalable multilingual evaluation, but they need validation, documentation, and quality-aware analysis.
 
 ## Research story
 
@@ -47,15 +47,6 @@ The main question is simple but important: when a model performs worse on a tran
 
 The analysis shows that target-side translation errors are consistently associated with measurable accuracy drops, even after controlling for English correctness and source-side issues. The results suggest that translation errors can bias absolute multilingual scores downward, even when model rankings remain relatively stable.
 
-## Released artefacts
-
-| Artefact | Repository |
-|---|---|
-| EU20-Cleaned datasets and benchmark QA scripts | [eu20-cleaned/translation-quality-analysis](https://github.com/eu20-cleaned/translation-quality-analysis) |
-| TQE reference data, annotation prompts, and impact-analysis scripts | [btqe/trans_qa](https://github.com/btqe/trans_qa) |
-
-Both repositories are initial public artefact releases. They provide the main datasets, prompts, scripts, submitted inputs, and documentation used in the papers. They are not presented as fully automated end-to-end reproduction pipelines.
-
 ## Papers
 
 - **Diagnosing Translated Benchmarks: An Automated Quality Assurance Study of the EU20 Benchmark Suite**  
@@ -69,7 +60,6 @@ Both repositories are initial public artefact releases. They provide the main da
 ## Code and data
 
 - **EU20-Cleaned / LREC artefacts:** <https://github.com/eu20-cleaned/translation-quality-analysis>
-- **EU20-Cleaned datasets:** <https://github.com/eu20-cleaned/translation-quality-analysis/tree/main/data/eu20-cleaned>
 - **TQE / ACL artefacts:** <https://github.com/btqe/trans_qa>
 
 ## Related blog posts
